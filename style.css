@@ -1,21 +1,21 @@
 h1{
-    color: #0000FF;
+    color: #6767b0;
     font-family: Arial, Helvetica, sans-serif;
 }
 h2{
     font-size: 25px;
-    color: rgb(35, 248, 15);
+    color: rgb(81, 141, 75);
     font-family: cursive;
 }
 
 p{
-    color: rgb(255, 127, 172);
+    color: rgb(208, 109, 143);
 }
 .Class1{
-    color: chocolate;
+    color: rgb(215, 115, 43);
     background-color: aqua;
 }
 #id123{
-    color: red;
+    color: rgb(192, 108, 108);
     background-color: #32540A;
 }
